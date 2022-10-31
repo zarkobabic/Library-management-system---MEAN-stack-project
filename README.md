@@ -2,6 +2,7 @@
 <h3><i>[ MEAN stack project ]</i></h3>
 <br>
 <br>
+<hr>
 <h1>Implementation</h1>
 
 This project was made using MEAN stack technology, which implies the use of the following tools
@@ -15,6 +16,8 @@ This project was made using MEAN stack technology, which implies the use of the 
 <b><i>The frontend part</i></b> is built using libraries such as angular materials and bootstrap
 
 <b><i>The backend part</i></b> is made using MVVM technology.
+
+<h1>About library management system</h1>
 
 For the purposes of this project, a library management system was implemented. There are 3 types of users within this system:
 <ul>
