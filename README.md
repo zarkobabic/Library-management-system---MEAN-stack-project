@@ -1,6 +1,20 @@
 # Library management system
 <h3>MEAN stack project</h3>
 
+<h1 style="color:blue;">Implementation<h1>
+
+This project was made using MEAN stack technology, which implies the use of the following tools
+<ol>
+<li>M (MongoDB database)</li>
+<li>E (Express JS)</li>
+<li>A (corner frame)<li>
+<li>N (Node.js)</li>
+</ol>
+
+The frontend part is built using libraries such as angular materials and bootstrap
+
+The backend part is made using MVVM technology.
+
 For the purposes of this project, a library management system was implemented. There are 3 types of users within this system:
 <ul>
 <li>admin</li>
