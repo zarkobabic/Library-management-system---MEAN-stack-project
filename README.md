@@ -1,7 +1,7 @@
 # Library management system
 <h3>MEAN stack project</h3>
 
-<h1 style="color:blue;">Implementation<h1>
+<h1>Implementation</h1>
 
 This project was made using MEAN stack technology, which implies the use of the following tools
 <ol>
