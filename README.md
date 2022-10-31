@@ -12,9 +12,9 @@ This project was made using MEAN stack technology, which implies the use of the 
 <li>N (Node.js)</li>
 </ol>
 
-The frontend part is built using libraries such as angular materials and bootstrap
+<b><i>The frontend part</i></b> is built using libraries such as angular materials and bootstrap
 
-The backend part is made using MVVM technology.
+<b><i>The backend part</i></b> is made using MVVM technology.
 
 For the purposes of this project, a library management system was implemented. There are 3 types of users within this system:
 <ul>
