@@ -1,6 +1,23 @@
 # Library management system
-<h1>MEAN stack project</h1>
+<h3>MEAN stack project</h3>
 
+For the purposes of this project, a library management system was implemented. There are 3 types of users within this system:
+<ul>
+<li>admin</li>
+<li>reader</li>
+<li>moderator</li>
+</ul>
+Depending on which account you are logging into, some of the operations are enabled, such as:
+<ul>
+<li>Profile update</li>
+<li>Adding new users and books</li>
+<li>Updating information about current users</li>
+<li>Reading statistics for the previous 12 months in the form of the number of books read by genre and month</li>
+<li>Book ordering history</li>
+<li>Advanced and basic search</li>
+<li>As well as displaying a book details page where you can rate the book and leave a comment!</li>
+</ul>
+When a user logs in, the user is shown a slider with the 3 most read books at the moment, as well as a selected book of the day, which is updated on a daily basis!
 
 
 
