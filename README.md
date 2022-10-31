@@ -1,7 +1,6 @@
 # Library management system
 <h3><i>[ MEAN stack project ]</i></h3>
 <br>
-<br>
 <hr>
 <h1>Implementation</h1>
 
@@ -39,7 +38,7 @@ Depending on which account you are logging into, some of the operations are enab
 </ul>
 When a user logs in, the user is shown a slider with the 3 most read books at the moment, as well as a selected book of the day, which is updated on a daily basis!
 
-
+<h1>Final product</h1>
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/92127059/199014987-50d49887-dcec-4796-a3ee-927dd9f15ca5.png)
 ![screencapture-localhost-4200-citalac-2022-10-31-13_52_44](https://user-images.githubusercontent.com/92127059/199015021-ee0fcb58-a302-4a44-bc99-84e322383cec.png)
