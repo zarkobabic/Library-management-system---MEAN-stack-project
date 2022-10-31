@@ -8,7 +8,7 @@ This project was made using MEAN stack technology, which implies the use of the 
 <ol>
 <li>M (MongoDB database)</li>
 <li>E (Express JS)</li>
-<li>A (corner frame)<li>
+<li>A (Angular)</li>
 <li>N (Node.js)</li>
 </ol>
 
