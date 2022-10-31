@@ -1,6 +1,5 @@
 # Library management system
 <h3><i>[ MEAN stack project ]</i></h3>
-<br>
 <hr>
 <h1>Implementation</h1>
 
