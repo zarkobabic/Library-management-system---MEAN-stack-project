@@ -1,4 +1,7 @@
-# Library-management-system---MEAN-stack-project
+# Library management system
+<h1>MEAN stack project</h1>
+
+
 
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/92127059/199014987-50d49887-dcec-4796-a3ee-927dd9f15ca5.png)
