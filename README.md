@@ -16,6 +16,8 @@ Depending on which account you are logging into, some of the operations are enab
 <li>Book ordering history</li>
 <li>Advanced and basic search</li>
 <li>As well as displaying a book details page where you can rate the book and leave a comment!</li>
+<li>Review of borrowed books and the deadline for returning the book</li>
+<li>Sending a request to create a profile that can only be approved by the admin</li>
 </ul>
 When a user logs in, the user is shown a slider with the 3 most read books at the moment, as well as a selected book of the day, which is updated on a daily basis!
 
